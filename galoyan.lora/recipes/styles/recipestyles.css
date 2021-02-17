@@ -1,0 +1,120 @@
+
+h1{
+	font-family: dolce, sans-serif;
+	font-weight: 800;
+	font-style: normal;
+	font-size: 70px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #474747;
+}
+
+/*h2{
+	font-family: dolce, sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 5px;
+	margin-left: 170px;
+	
+}*/
+
+.breakfast_title{
+	font-family: dolce, sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 5px;
+	margin-left: 190px;
+	color: #474747;
+}
+
+.lunch_title{
+	font-family: dolce, sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 5px;
+	margin-left: 250px;
+	color: #474747;
+}
+
+.dinner_title{
+	font-family: dolce, sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 5px;
+	margin-left: 270px;
+	color: #474747;
+}
+
+h3{
+	font-family: bree, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	margin-bottom: 5px;
+	margin-left: 280px;
+	color: #474747;
+}
+
+.info_paragraph{
+	font-family: bree, sans-serif;
+	font-style: normal;
+	font-weight: 200;
+	margin-top: 0;
+	margin-left: 100px;
+}
+
+.ingredients{
+	font-family: bree, sans-serif;
+	font-style: normal;
+	font-weight: 200;
+	margin-left: 300px;
+	margin-top: 5px;
+}
+
+img{
+	float: right;
+	margin-right: 100px;
+	margin-bottom: 100px;
+}
+
+#breakfast{
+	margin-top: 50px;
+}
+
+#lunch{
+	margin-top: 100px;
+}
+
+#dinner{
+	margin-top: 100px;
+	margin-bottom: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
